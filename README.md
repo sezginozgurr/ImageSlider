@@ -5,6 +5,11 @@
 ![Image Slider Screenshot](screenshots/screenshot_1.png)
 ![Image Slider Screenshot](screenshots/screenshot_2.png)
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="screenshots/screenshot_1.png" width="100" alt="Image Slider Screenshot 1">
+    <img src="screenshots/screenshot_2.png" width="100" alt="Image Slider Screenshot 2">
+</div>
+
 ## Özellikler
 
 - 🖼️ Yatay kaydırmalı görsel galerisi
